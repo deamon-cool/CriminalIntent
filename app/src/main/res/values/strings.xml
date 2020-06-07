@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Wprowadź tytuł sprawy:</string>
+    <string name="crime_title_label">Tytuł</string>
+    <string name="crime_details_label">Opis</string>
+    <string name="crime_solved_label">Rozwiązana</string>
+    <string name="date_picker_title">Data sprawy</string>
+    <string name="new_crime">Nowa sprawa</string>
+    <string name="show_subtitle">Pokaż podtytuł</string>
+    <string name="hide_subtitle">Ukryj podtytuł</string>
+    <string name="subtitle_format">%1$d sprawy</string>
+    <string name="crime_suspect_text">Wybierz podejrzanego</string>
+    <string name="crime_report_text">Wyślij raport sprawy</string>
+    <string name="crime_report">%1$s! Sprawa została wykryta %2$s. %3$s, i %4$s</string>
+    <string name="crime_report_solved">Sprawa jest rozwiązana</string>
+    <string name="crime_report_unsolved">Sprawa jest nierozwiązana</string>
+    <string name="crime_report_no_suspect">nie ma podejrzanego</string>
+    <string name="crime_report_suspect">podejrzanym jest %s</string>
+    <string name="crime_report_subject">CriminalIntent Raport Sprawy</string>
+    <string name="send_report">Wyślij raport sprawy przez</string>
+</resources>
